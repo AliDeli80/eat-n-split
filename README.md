@@ -25,7 +25,7 @@ Clone the repo and run the app locally:
 git clone https://github.com/AliDeli80/eat-n-split.git
 cd eat-n-split
 npm install
-or npm start
+npm start
 ```
 
 ## 🧠 How It Works
