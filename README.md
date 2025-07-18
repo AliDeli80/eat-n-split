@@ -22,10 +22,10 @@
 Clone the repo and run the app locally:
 
 ```bash
-git clone https:/AliDeli80/github.com//eat-n-split.git
+git clone https://github.com/AliDeli80/eat-n-split.git
 cd eat-n-split
 npm install
-npm run dev     # or npm start if using Create React App
+or npm start
 ```
 
 ## 🧠 How It Works
