@@ -44,4 +44,4 @@ Contributions are welcome! If you'd like to improve something, feel free to fork
 This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
-GitHub: AliDeli80
+AliDeli80
